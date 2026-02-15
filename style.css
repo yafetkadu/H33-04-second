@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+    align-items: center;
+    background-color: aliceblue;
+}
+h1 {
+    background-color: black;
+    font-family: arial;
+    font-size: 40px;
+    width: 600px;
+    padding: 4em;
+    border-radius: 12px;
+    text-transform: uppercase;
+    max-width: 600px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+h1:hover {
+    box-shadow: 12px 12px 12px rgba(0, 0, 0, 0.3);
+}
